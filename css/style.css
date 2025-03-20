@@ -1,0 +1,94 @@
+
+  
+/* Header Styling */
+
+header {
+    background-color: #26292e;
+}
+
+header h1 {
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 900;
+    font-style: normal;
+    color: #949598;
+}
+
+  .socials i {
+    font-size: 1.5rem;
+    color: white;
+  }
+
+  .socials a {
+    text-decoration: none;
+  }
+
+  .socials i:nth-child(2) {
+    color: black;
+    background-color: white;
+  }
+
+  /* Main Styling */
+
+  .heroRow {
+    background-color: #e7718b;
+    color: white;
+    padding: 2%;
+  }
+
+  .heroRow button {
+    background: rgb(104,104,104);
+    background: linear-gradient(180deg, rgba(104,104,104,1) 20%, rgba(47,46,46,1) 77%);
+    color: white;
+    border: none;
+    border-radius: 6%;
+    padding: 1%;
+  }
+
+
+  /* Info Row */
+
+  .informationRow {
+    background-color: #f4f4f6;
+  }
+
+  .informationRow h2 {
+    color: #717173;
+  }
+
+  .informationRow p {
+    color: #ceced0;
+  }
+
+  /* Product Row */
+
+  .productsRow span {
+    font-weight: bolder;
+  }
+
+  .productsRow img {
+    margin: 2% 0;
+  }
+
+  /* Footer */
+
+  footer {
+    background-color: #222529;
+  }
+
+  footer p {
+    color: white;
+  }
+
+  footer a {
+    text-decoration: none;
+  }
+
+  footer i {
+    color: white;
+  }
+
+  footer a:nth-child(2) i {
+    color: black;
+    background-color: white;
+    border-radius: 75%;
+  }
